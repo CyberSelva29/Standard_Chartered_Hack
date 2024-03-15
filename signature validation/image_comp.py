@@ -78,4 +78,5 @@ def compare_sign(original, verify):
             return False
         
 
-compare_sign("img.png", "extracted/img_13.jpg")
+# Enter the valid address of two images to compare
+compare_sign("img.png", "extracted_images/img_13.jpg")
