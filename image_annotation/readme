@@ -1,5 +1,0 @@
-Read this before executing
-
-Always remember to cross check the directory path mentioned in the program, the program may contain different path names
-
-Ultralytics library is used to execute the YOLOv8 model that has been previously trained on the custom dataset, make sure you install the library
