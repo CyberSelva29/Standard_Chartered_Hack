@@ -1,5 +1,7 @@
 # Cheque Parsing System
 
+<h3>Approach to solution</h3>
+<img src="https://drive.google.com/file/d/132jsRN9pIakeusuXmDgtHWfxA2yg7Y1F/view?usp=drive_link" alt="Proposed flow">
 <h3>collect the dataset for cheque</h3>
 <p>we have collected the IDRBT Cheque dataset</p>
 
