@@ -55,5 +55,5 @@ OCR for Text Extraction: Upload any image containing text to extract the textual
   <li>Cassandra(Database)</li>
 </ol>
 
-<h3>Contributed by Team :STAY </h3>
-<p>PSG college of technology for standard chatered hackathon</p>
+<h3>Contributed by Team :S.T.A.Y </h3>
+<p>PSG college of technology for Standard Chartered hackathon</p>
