@@ -1,7 +1,7 @@
 # Cheque Parsing System
 
 <h3>Approach to solution</h3>
-![WhatsApp Image 2024-03-18 at 10 44 44_77270129](https://github.com/CyberSelva29/Standard_Chartered_Hack/assets/101956466/bb2f0d71-0dac-4933-b4c3-7b5d4d5687a9)
+<img src="https://github.com/CyberSelva29/Standard_Chartered_Hack/assets/101956466/bb2f0d71-0dac-4933-b4c3-7b5d4d5687a9">
 
 <h3>collect the dataset for cheque</h3>
 <p>we have collected the IDRBT Cheque dataset</p>
