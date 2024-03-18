@@ -1,7 +1,8 @@
 # Cheque Parsing System
 
 <h3>Approach to solution</h3>
-<img src="https://drive.google.com/file/d/132jsRN9pIakeusuXmDgtHWfxA2yg7Y1F/view?usp=drive_link" alt="Proposed flow"/>
+![WhatsApp Image 2024-03-18 at 10 44 44_77270129](https://github.com/CyberSelva29/Standard_Chartered_Hack/assets/101956466/bb2f0d71-0dac-4933-b4c3-7b5d4d5687a9)
+
 <h3>collect the dataset for cheque</h3>
 <p>we have collected the IDRBT Cheque dataset</p>
 
@@ -31,7 +32,7 @@ OCR for Text Extraction: Upload any image containing text to extract the textual
 
 <h3>detect potential frauds</h3>
 <p><ol>
- <li>Forgery</li>
+  <li>Forgery</li>
   <li>Counterfeiting</li>
   <li>Check Kiting</li>
   <li>Check Washing</li>
@@ -41,14 +42,12 @@ OCR for Text Extraction: Upload any image containing text to extract the textual
   <li>Account Takeover</li>
   <li>Check Tampering</li>
   <li>Duplicate Payment Fraud</li>
-  <li>Check Scam Schemes</li>
-  <li>Insider Fraud</li>
 </ol>
 </p>
 
 <h3>Technologies Stack</h3>
 <ol>
-  <li>Java Swing (for frontend)</li>
+  <li>Python Tkinter (for frontend)</li>
   <li>Python (for backend)</li>
   <li>Machine Learning (e.g., TensorFlow, PyTorch)</li>
   <li>Image Processing (e.g., OpenCV)</li>
